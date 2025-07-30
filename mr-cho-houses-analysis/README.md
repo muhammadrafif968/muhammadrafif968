@@ -40,7 +40,7 @@ Included visuals:
 - **Simulation Tool** using What-If Parameters (Tax, Discount)
 - **Insightful Cards & Filters** for interactivity
 
-> 🔗 **[Download the dashboard (PDF)](https://yourlink.com)**  
+> 🔗 **[Download the dashboard (PDF)](https://drive.google.com/drive/folders/14wpBBlv8nb4SnIsw1cDBLECdUB6EtjEE?usp=sharing)**  
 > *(Or request interactive file upon contact)*
 
 ---
