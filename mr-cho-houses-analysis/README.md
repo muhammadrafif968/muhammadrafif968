@@ -12,18 +12,18 @@ and built an **interactive Power BI dashboard** for business insights.
 
 mr-cho-houses-analysis/
 │
-├── Images/
-│ ├── Part 1/ # Images used in Part 1 notebook
-│ ├── Part 2/ # Images used in Part 2 notebook
+├── images/
+│   ├── part1/                      # Images used in Part 1 notebook
+│   ├── part2/                      # Images used in Part 2 notebook
 │
 ├── notebooks/
-│ ├── Mr_Cho_Property_Project_Part_1_House_recomendation_for_Mr_Cho_using_CRISP_DM_method.ipynb
-│ ├── Mr_Cho_Property_Project_Part_2_House_Price_Prediction_&_Property_Clustering.ipynb
-│ ├── Power_BI_Dashboard_Houses_Mr_Cho.pbix
-│ ├── Power_BI_Dashboard_Houses_Mr_Cho.pdf
+│   ├── mr_cho_part1_house_recommendation_crisp_dm.ipynb
+│   ├── mr_cho_part2_house_price_prediction_and_property_clustering.ipynb
+│   ├── power_bi_dashboard_houses_mr_cho.pbix
+│   ├── power_bi_dashboard_houses_mr_cho.pdf
 │
-├── data_porto_2.csv # Dataset
-├── README.md # Project documentation
+├── data_porto_2.csv                # Dataset
+├── README.md                       # Project documentation
 
 
 ---
