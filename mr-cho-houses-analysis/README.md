@@ -1,8 +1,27 @@
-# 🏠 Mr. Cho Houses Analysis
+# 🏠 House Price Analysis & Recommendation – Helping Mr. Cho Make Smarter Property Decisions
+
+This project simulates a real-world case: helping a client, **Mr. Cho**, decide which house to buy in the Seattle area.  
+Using the **CRISP-DM framework**, we combine **business understanding** with **data science techniques** to provide:
+
+- Clear **recommendations** on property selection.
+- **Price prediction models** to estimate fair values.
+- **Segmentation insights** to understand housing market patterns.
+
+---
+
+## 📊 Summary of Findings
+
+- ✅ **House Recommendations:** Based on Mr. Cho’s budget and preferences, we narrowed down potential properties using filtering logic.  
+- 📉 **Price Prediction:** Random Forest gave the most accurate results, showing strong performance compared to linear models.  
+- 🧩 **Market Segmentation:** Clustering revealed 4 main groups of homes, which help differentiate between budget-friendly, premium, older, and modern homes.  
+- 💡 **Key Insight:** Premium homes have more volatile prices, while mid-range properties show more predictable value patterns.
+
+---
+
 
 ## 📌 Project Overview
-This project is based on a dataset from the **Sanbercode Data Science Bootcamp Final Project**.  
-Initially, the task was to implement the **CRISP-DM methodology** for house recommendation based on client needs.  
+This project is based on a dataset from the **"Sanbercode Data Science Bootcamp Final Project"**.  
+Initially, the task was to implement the "**CRISP-DM methodology** for house recommendation based on client needs".  
 We extended the project to include **Machine Learning algorithms** for **price prediction** and **property clustering**,  
 and built an **interactive Power BI dashboard** for business insights.
 
@@ -79,3 +98,4 @@ For collaboration or inquiries, feel free to reach out via GitHub or LinkedIn.
 📧 **muhammadrafif968@gmail.com**
 
 🌐 **https://www.linkedin.com/in/muhammad-rafif-8a1b20293**
+
